@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+.App {
+  text-align: center;
+  margin-left: 2%;
+  margin-right: 2%;
+  
+}
+
+/* NAVBAR */
+.navbar-item img {
+  max-height: 10rem !important;
+}
+
+.button.is-primary {
+  background-color: #2cdbf1 !important;
+}
+
+a{
+  color: black !important;
+}
+/* HOME */
+.btn{
+  margin: 2%;
+  border: 1px solid black;
+  padding: 19px 32px 19px 32px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.intro{
+  color: black;
+  font-size: 4rem;
+  font-family: 'Titillium Web', sans-serif ;
+  font-weight: 900;
+}
+
+
+.headline {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif ;
+  font-weight: 300;
+  color: black;
+  margin-bottom: 5%;
+}
+
+/*PORTFOLIO LIST*/
+
+.title.is-4 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 900;
+}
+
+.title.is-2 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 900;
+}
+
+
+.subtitle.is-6 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 300;
+}
+
+ p {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+
+
+.subtitle {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.content{
+  font-family: 'Open Sans', sans-serif;
+
+}
+/* SEARCH-BAR */
+
+.is-info.input{
+  margin-top: 2% !important;
+  border-color: #2cdbf1;
+}
+
+/* RESUME */
+
+.hero.is-link {
+  background-color: black !important;
+}
+
+.title.is-1{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 900;
+}
+
+.title.is-6 {
+  font-family: 'Open Sans', sans-serif;
+  
+}
